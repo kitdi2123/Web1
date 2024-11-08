@@ -1,0 +1,19 @@
+a{
+    padding: 10px 30px;
+    width: 100px;
+    border-radius: 999px;
+    background-color: pink;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    display:inline-block;
+    text-align: center;
+}
+
+a:hover{
+    background-color: #000;
+    color: pink;
+}
+body{
+    background-color: aquamarine;
+}
